@@ -8,9 +8,10 @@ learning:
 
 contact
 
-![foto perfil](https://cdn-icons-png.freepik.com/512/10488/10488149.png)
+<img src="https://cdn-icons-png.freepik.com/512/10488/10488149.png" width="200">
 
-[my instagram](https://www.instagram.com/david_perez.s_/)
+[![my instagram](https://img.shields.io/badge/instagram-pink)](https://www.instagram.com/david_perez.s_/)
+
 
 [![enlace github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/david-p-perez)
 
