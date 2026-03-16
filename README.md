@@ -13,8 +13,13 @@
 
 </p>
 
-[![my instagram](https://img.shields.io/badge/instagram-pink)](https://www.instagram.com/david_perez.s_/)
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300D4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineering+Student;Always+Learning+New+Technologies">
 
+<p align="center">
+
+  [![my instagram](https://img.shields.io/badge/instagram-pink)](https://www.instagram.com/david_perez.s_/)
+
+</p>
 
 [![enlace github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/david-p-perez)
 
@@ -27,6 +32,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-p-perez)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=david-p-perez)
+
+<img src="https://komarev.com/ghpvc/?username=david-p-perez&label=Profile%20views&color=00D4FF&style=plastic">
+
+
 
 
 
