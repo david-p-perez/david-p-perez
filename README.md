@@ -1,21 +1,26 @@
 # David Perez
 
-learning:
+## learning:
 
 -  I’m currently studying software development
 -  learning python, javascript, html, looking to learn c++ and game development
 -
 
-contact
+### contact
+<p align="center">
+  
+  <img src="https://cdn-icons-png.freepik.com/512/10488/10488149.png" width="200">
 
-<img src="https://cdn-icons-png.freepik.com/512/10488/10488149.png" width="200">
+</p>
 
 [![my instagram](https://img.shields.io/badge/instagram-pink)](https://www.instagram.com/david_perez.s_/)
 
 
 [![enlace github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/david-p-perez)
 
-statistics
+
+
+#### statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=david-p-perez)
 
