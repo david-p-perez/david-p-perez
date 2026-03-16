@@ -4,7 +4,7 @@
 
 -  I’m currently studying software development
 -  learning python, javascript, html, looking to learn c++ and game development
--
+-  want to learn more about ai development
 
 ### contact
 <p align="center">
