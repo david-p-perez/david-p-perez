@@ -10,6 +10,8 @@
 
 [![enlace github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/david-p-perez)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=david-p-perez)
+
 
 
 <!--
