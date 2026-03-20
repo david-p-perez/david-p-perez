@@ -18,6 +18,7 @@
 <p align="center">
 
   [![my instagram](https://img.shields.io/badge/instagram-pink)](https://www.instagram.com/david_perez.s_/)
+  <a href="https://github.com/david-p-perez"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </p>
 
