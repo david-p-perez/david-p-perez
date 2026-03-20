@@ -17,7 +17,7 @@
 
 <p align="center">
 
-  [![my instagram](https://img.shields.io/badge/instagram-pink)](https://www.instagram.com/david_perez.s_/)
+  [![my instagram](https://img.shields.io/badge/whatsapp-pink)](https://wa.me/qr/5QTTPR3HL4K2O1)
   <a href="https://github.com/david-p-perez"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </p>
