@@ -33,8 +33,8 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with Me
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#a4fdebf1f6fbe1e9e5ede8e4c3c9c5cdc88ac7cbc9"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  &emsp;
+  	<a href="mailto:davidp.sarmiento8313@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
   <a href="https://github.com/david-p-perez"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   &emsp;
   <a href="https://wa.me/+573127131033"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
