@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Perez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center"><img alt="Developer photo" src="https://avatars.githubusercontent.com/u/212486957?v=4" width="300px"></p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -24,7 +25,7 @@
 - 🤖 Interested in **AI development**
 - 💡 I love using software as a solution for every problem
 - 🚀 right now looking to make a fighting videogame!
-- 💬 Feel free to reach out for collaboration or discussions!
+- 💬 **Bilingual!**(spanish and english)
 
 <br>
 
@@ -38,9 +39,7 @@
   <a href="https://github.com/david-p-perez"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   &emsp;
   <a href="https://wa.me/+573127131033"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &emsp;
+ 
 </p>
 
 ---
@@ -126,9 +125,4 @@
 
 </div>
 
----
 
-## 🐍 A Snake Eating my Contributions Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/david-p-perez/david-p-perez/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
