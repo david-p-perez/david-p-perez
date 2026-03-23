@@ -131,4 +131,4 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/david-p-perez/david-p-perez/output/github-contributi
+  <img src="https://raw.githubusercontent.com/david-p-perez/david-p-perez/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
