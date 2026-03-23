@@ -37,11 +37,10 @@
   &emsp;
   <a href="https://github.com/david-p-perez"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   &emsp;
-  <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://wa.me/+573127131033"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   &emsp;
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &emsp;
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
