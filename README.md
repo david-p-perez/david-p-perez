@@ -23,7 +23,7 @@
 - 🎮 Looking to explore **C++** and **game development**
 - 🤖 Interested in **AI development**
 - 💡 I love using software as a solution for every problem
-- 🚀 Always learning new technologies
+- 🚀 right now looking to make a fighting videogame!
 - 💬 Feel free to reach out for collaboration or discussions!
 
 <br>
