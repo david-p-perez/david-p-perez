@@ -24,7 +24,6 @@
 - 🎮 Looking to explore **C++** and **game development**
 - 🤖 Interested in **AI development**
 - 💡 I love using software as a solution for every problem
-- 🚀 right now looking to make a fighting videogame!
 - 💬 **Bilingual!**(spanish and english)
 
 <br>
